@@ -1,7 +1,7 @@
 # MMSP-2020
 MMSP project
 # Convolution Autoencoder-Based Sparse Representation Wavelet for Image Classification
-![overview](https://user-images.githubusercontent.com/18729506/57503787-b905dd00-72bf-11e9-968f-a66010572b26.png)
+![overview](Scheme.png)
 
 ## Overview
 We propose an effective Convolutional Autoencoder (AE) model for Sparse Representation (SR) in the Wavelet Domain for Classification (SRWC). The proposed approach involves an autoencoder with a sparse latent layer for learning sparse codes of wavelet features. The estimated sparse codes are used for assigning classes to test samples using a residual-based probabilistic criterion. Intensive experiments carried out on various datasets revealed that the proposed method yields better classification accuracy while exhibiting a significant reduction in the number of network parameters, compared to several recent deep learning-based methods.
